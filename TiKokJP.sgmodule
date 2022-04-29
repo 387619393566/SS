@@ -1,18 +1,5 @@
-#!name=Tiktok
-#!desc=JP
-
-[Rule]
-DOMAIN-SUFFIX,byteoversea.com,JP
-DOMAIN-SUFFIX,ibytedtos.com,JP
-DOMAIN-SUFFIX,ipstatp.com,JP
-DOMAIN-SUFFIX,muscdn.com,JP
-DOMAIN-SUFFIX,musical.ly,JP
-DOMAIN-SUFFIX,tik-tokapi.com,JP
-DOMAIN-SUFFIX,tiktok.com,JP
-DOMAIN-SUFFIX,tiktokcdn.com,JP
-DOMAIN-SUFFIX,tiktokv.com,JP
-DOMAIN-KEYWORD,-tiktokcdn-com,JP
-USER-AGENT,tiktok*,JP
+#!name=Tiktok Unlock 
+#!desc=Tiktok Unlock & 解密 TCP 流量
 
 [URL Rewrite]
 (?<=_region=)CN(?=&) JP 307
