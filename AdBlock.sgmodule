@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,iyes.youku.com,REJECT
 DOMAIN-SUFFIX,sq.sljkj.com,REJECT
 DOMAIN-SUFFIX,s2s.adjust.com,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao,REJECT
-DOMAIN-SUFFIX,bytedance.com,REJECT?
+DOMAIN-SUFFIX,mssdk-bu.bytedance.com,REJECT
 # 百度移动广告联盟，可能误杀
 DOMAIN-SUFFIX,mobads.baidu.com,REJECT
 # 腾讯广告联盟，可能误杀
