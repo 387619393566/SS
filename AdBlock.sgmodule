@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,s2s.adjust.com,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,mssdk-bu.bytedance.com,REJECT
-DOMAIN-SUFFIX,tingyun.com,REJECT
 
 # 百度移动广告联盟，可能误杀
 DOMAIN-SUFFIX,mobads.baidu.com,REJECT
