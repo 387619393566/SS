@@ -35,8 +35,6 @@ http-response ^https://(api\.weibo\.cn|mapi\.weibo\.com)/2/cardlist\? requires-b
 # > 微博非会员设置tab皮肤
 ^https://new.vip.weibo.cn/littleskin/preview url script-response-body https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo_main.js
 
-# > 微博配置注入
-微博去广告配置注入 = type=cron,cronexp="0 0 1 ? * MON",debug=1,script-path=https://hub.nange.cn/Script/Weibo/Config.js
 
 [MITM]
 hostname = %APPEND% *.uve.weibo.com, *api.weibo.cn, *api.weibo.com, h5.sinaimg.cn, new.vip.weibo.cn, *.sc.weibo.com, captcha.weibo.com, wx*.sinaimg.cn, js.t.sinajs.cn, *.e.weibo.com
