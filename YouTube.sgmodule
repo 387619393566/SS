@@ -1,5 +1,5 @@
-#!name=youtube（改）
-#!desc= 测试
+#!name= Block YouTube Advertising
+#!desc= 油管去广告
 
 [Rule]
 URL-REGEX,^https?:\/\/.+?\.googlevideo\.com\/.+&oda,REJECT-TINYGIF
