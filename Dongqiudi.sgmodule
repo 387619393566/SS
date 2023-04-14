@@ -2,7 +2,7 @@
 #!desc= Dongqiudi
 
 [URL Rewrite]
-^https?:\/\/ap\.dongqiudi\.com\/plat\/v url - reject
+^https?:\/\/ap\.dongqiudi\.com\/plat\/v - reject
 
 [MITM]
 hostname = %APPEND% ap.dongqiudi.com
