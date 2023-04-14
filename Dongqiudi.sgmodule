@@ -4,4 +4,4 @@
 [URL Rewrite]
 ^https?:\/\/ap\.dongqiudi\.com\/plat\/v url - reject
 
-^hostname = %APPEND% ap.dongqiudi.com
+hostname = %APPEND% ap.dongqiudi.com
