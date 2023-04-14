@@ -4,4 +4,5 @@
 [URL Rewrite]
 ^https?:\/\/ap\.dongqiudi\.com\/plat\/v url - reject
 
+[MITM]
 hostname = %APPEND% ap.dongqiudi.com
