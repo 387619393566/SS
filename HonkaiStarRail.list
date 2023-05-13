@@ -1,7 +1,7 @@
 # Honkai: Star Rail
-DOMAIN-KEYWORD,hoyoverse
-DOMAIN-KEYWORD,starrails
-DOMAIN-KEYWORD,minor-api.mihoyo.com
+HOST-KEYWORD,hoyoverse
+HOST-KEYWORD,starrails
+HOST-SUFFIX,minor-api.mihoyo.com
 IP-CIDR,8.208.0.0/12
 IP-CIDR,170.33.0.0/16
 IP-CIDR,47.80.0.0/12
