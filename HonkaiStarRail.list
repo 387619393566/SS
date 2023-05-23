@@ -1,5 +1,6 @@
 # Honkai: Star Rail
 HOST-KEYWORD,hoyoverse
+HOST-KEYWORD,hoyolab
 HOST-KEYWORD,starrails
 HOST-SUFFIX,minor-api.mihoyo.com
 IP-CIDR,8.208.0.0/12
