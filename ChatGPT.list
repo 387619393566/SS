@@ -25,7 +25,7 @@ host-suffix , intercom.io, OpenAI
 host-suffix , statsigapi.net, OpenAI
 host-suffix , featuregates.org, OpenAI
 host-suffix , intercomcdn.com, OpenAI
-host-suffix , pki.goog
+host-suffix , pki.goog, OpenAI
 host-suffix , cloudflareinsights.com, OpenAI
 host-suffix , edgecompute.app, OpenAI
 host-suffix , compute-pipe.com, OpenAI
