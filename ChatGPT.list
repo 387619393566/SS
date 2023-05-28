@@ -1,5 +1,35 @@
 # ChatGPT
 host-keyword, openai, OpenAI
+host-keyword, openaiapi, OpenAI
+host-keyword, openaipublic, OpenAI
 host-suffix , identrust.com, OpenAI
 host-suffix , auth0.com, OpenAI
 host-suffix , sentry.io, OpenAI
+host-suffix , vimeocdn.com, OpenAI
+host-suffix , blob.core.windows.net, OpenAI
+host-suffix , googleapis.com, OpenAI
+host-suffix , openaicom.imgix.net, OpenAI
+host-suffix , azurefd.net, OpenAI
+host-suffix , azureedge.net, OpenAI
+host-suffix , cdn.cloudflare.net, OpenAI
+host-suffix , hcaptcha.com, OpenAI
+host-suffix , akamaized.net, OpenAI
+host-suffix , gstatic.com, OpenAI
+host-suffix , vimeo.com, OpenAI
+host-suffix , googletagmanager.com, OpenAI
+host-suffix , f7tk.com, OpenAI
+host-suffix , doubleclick.net, OpenAI
+host-suffix , google-analytics.com, OpenAI
+host-suffix , ai.com, OpenAI
+host-suffix , intercom.io, OpenAI
+host-suffix , statsigapi.net, OpenAI
+host-suffix , featuregates.org, OpenAI
+host-suffix , intercomcdn.com, OpenAI
+host-suffix , pki.goog
+host-suffix , cloudflareinsights.com, OpenAI
+host-suffix , edgecompute.app, OpenAI
+host-suffix , compute-pipe.com, OpenAI
+host-suffix , stripe.com, OpenAI
+host-suffix , stripe.network, OpenAI
+host-suffix , challenges.cloudflare.com, OpenAI
+host-suffix , gpt3sandbox.com, OpenAI
