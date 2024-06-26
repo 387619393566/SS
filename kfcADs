@@ -1,0 +1,13 @@
+#!name=KFC ADBlock
+#!desc=拜托，没有广告的KFC真的超酷的
+#!category=ADBlock
+
+[Map Local]
+^https?:\/\/res.kfc.com.cn\/advertisement\/ data-type=text data=" " status-code=200
+https://dynamicad.kfc.com.cn/api/app5/homepage/ai/popup data-type=text data=" " status-code=200
+
+[Script]
+replaceBody = type=http-response, pattern=^https?:\/\/res.kfc.com.cn\/CRM\/kfcad\/apphome6\/apphome.*json, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=bootStrapAd-%3Eddgksf2013
+
+[MITM]
+hostname = %APPEND% res.kfc.com.cn, dynamicad.kfc.com.cn
