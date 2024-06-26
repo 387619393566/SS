@@ -1,0 +1,9 @@
+#!name=Dongqiudi ADBlock
+#!desc=拜托，没有广告的懂球帝真的超酷的
+#!category=ADBlock
+
+[Map Local]
+^https?:\/\/ap\.dongqiudi\.com\/plat\/v4 data-type=file data="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/dongqiudi.js"
+
+[MITM]
+hostname = %APPEND% ap.dongqiudi.com
