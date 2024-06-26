@@ -3,7 +3,6 @@
 #!category=Enhance
 
 [General]
-compatibility-mode = 3
 force-http-engine-hosts = *.google.cn
 
 [URL Rewrite]
@@ -12,4 +11,3 @@ force-http-engine-hosts = *.google.cn
 
 [MITM]
 hostname = %APPEND% www.google.cn, www.g.cn
-tcp-connection = true
