@@ -12,7 +12,7 @@ proxy-groups:
   - {name: Youtube, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 美国节点, 日本节点, 台湾节点, 狮城节点], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Youtube.png }
   - {name: Telegram, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png }
   - {name: Twitter, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 美国节点, 台湾节点, 狮城节点], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Twitter.png }
-  - {name: Instagram, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 美国节点, 台湾节点, 狮城节点], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Twitter.png }
+  - {name: Instagram, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 美国节点, 台湾节点, 狮城节点], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Instagram.png  }
   - {name: BiliBili, type: select, proxies: [DIRECT, 香港节点, 台湾节点], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png }
   - {name: Emby, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 美国节点, 台湾节点, 狮城节点], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Emby.png }
   - {name: Game, type: select, proxies: [DIRECT, 手动切换, 自动选择, 香港节点, 日本节点, 美国节点, 台湾节点, 狮城节点], icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/GAME.png }
