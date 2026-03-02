@@ -53,8 +53,6 @@ rules:
   - RULE-SET,AdBlock,AdBlock
   - RULE-SET,OpenAi,OpenAi
   - RULE-SET,Apple,Apple
-  - RULE-SET,Github,Global
-  - RULE-SET,Microsoft,Global
   - RULE-SET,Google,Google
   - RULE-SET,YouTube,YouTube
   - RULE-SET,Telegram,Telegram
