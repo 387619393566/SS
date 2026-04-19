@@ -1,0 +1,10 @@
+#!name=DQD去广告
+#!desc=DQD去广告
+
+[URL Rewrite]
+# > 懂球帝
+#^https?:\/\/ap\.dongqiudi\.com\/plat\/v reject
+^https?:\/\/ap\.dongdianqiu\.com\/plat\/v4 - reject
+
+[MITM]
+hostname = %APPEND% ap.dongdianqiu.com
