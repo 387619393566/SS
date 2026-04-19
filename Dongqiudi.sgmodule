@@ -1,8 +1,10 @@
-#!name= Dongqiudi
-#!desc= Dongqiudi
+#!name=懂球帝App去广告
+#!desc=懂球帝App去广告
 
 [URL Rewrite]
-^https?:\/\/ap\.dongqiudi\.com\/plat\/v - reject
+# > 懂球帝
+#^https?:\/\/ap\.dongqiudi\.com\/plat\/v reject
+^https?:\/\/ap\.dongdianqiu\.com\/plat\/v4 - reject
 
 [MITM]
-hostname = %APPEND% ap.dongqiudi.com
+hostname = %APPEND% ap.dongdianqiu.com
