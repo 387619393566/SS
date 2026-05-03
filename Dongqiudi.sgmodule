@@ -1,8 +1,7 @@
-#!name=懂球帝App去广告
-#!desc=懂球帝App去广告
+#!name=懂球帝去广告
+#!desc=懂球帝去广告
 
 [URL Rewrite]
-# > 懂球帝
 #^https?:\/\/ap\.dongqiudi\.com\/plat\/v reject
 ^https?:\/\/ap\.dongdianqiu\.com\/plat\/v4 - reject
 
