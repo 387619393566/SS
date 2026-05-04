@@ -1,0 +1,8 @@
+#!name=懂球帝去广告
+#!desc=懂球帝去广告
+
+[Rewrite]
+^https?:\/\/ap\.dongdianqiu\.com\/plat\/v4 reject
+
+[MITM]
+hostname = ap.dongdianqiu.com
