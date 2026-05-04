@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,api.touch-moblie.com,REJECT
 ^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/sdkconfig\.php - reject
 
 [Body Rewrite]
+# > 微博_删除侧栏视频流@ddgksf2013
 http-response-jq ^https?:\/\/api\.weibo\.cn\/\d\/ug\/checkin\/stream '.items |= map(select(.category != "card"))'
 
 [Map Local]
