@@ -90,5 +90,4 @@ DOMAIN-SUFFIX,api.touch-moblie.com,REJECT
 ^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=search_topic url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weibo_json.js
 
 [MITM]
-# hostname = api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, new.vip.weibo.cn, *api.weibo.cn, sdkapp.uve.weibo.com
-hostname = *.weibo.cn, *.weibo.com, weibo.com
+hostname = api.weibo.*, *.api.weibo.*, mapi.weibo.*, *.uve.weibo.com, new.vip.weibo.cn, boot.biz.weibo.com
