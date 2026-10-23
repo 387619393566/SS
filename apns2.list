@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,push.apple.com,Default
+DOMAIN-SUFFIX,gateway.push.apple.com,Default
+DOMAIN-SUFFIX,api.push.apple.com,Default
+DOMAIN-SUFFIX,sandbox.push.apple.com,Default
